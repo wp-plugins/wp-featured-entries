@@ -1,0 +1,98 @@
+.selectable .ui-selecting { background: #dadada; }
+.selectable li:hover { background: #eee; }
+.selectable .ui-selected { background: #d5d5d5; }
+.selectable .ui-selected:hover { background: #d0d0d0; }
+.selectable { list-style-type: none; margin: 0; padding: 0; color: #333;}
+.selectable li { margin: 3px; padding: 0.4em; font-size: 14px; cursor: default; position: relative; }
+.selectable li .spandate { font-size: 12px; font-style: italic; }
+.ft_cont_selectable {
+	float: left;
+	width: auto;
+}
+#ft_botones {
+width: 20%;
+text-align: center;
+float: left;
+padding-top: 30px;
+}
+#ft_destacados,
+#ft_posts {
+width: 40%;
+min-height: 120px;
+}
+.limpiar {
+	clear: both;
+}
+#ft_contenedor {
+margin-top: 2em;
+}
+@-webkit-keyframes ajax-loader-rotate {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+@-moz-keyframes ajax-loader-rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+@keyframes ajax-loader-rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.ajax-loader {
+  opacity: .8;
+  display: none;
+  border-radius: 50%;
+
+  font-size: 29px;
+  width: .25em;
+  height: .25em;
+
+  box-shadow:
+    0 -.4em       0 0 rgba(0,0,0,1),
+    -.28em -.28em 0 0 rgba(0,0,0,.75),
+    -.4em 0       0 0 rgba(0,0,0,.50),
+    -.28em .28em  0 0 rgba(0,0,0,.25)
+  ;
+
+  -webkit-animation: .85s ajax-loader-rotate steps(8) infinite;
+  -moz-animation: .85s ajax-loader-rotate steps(8) infinite;
+  animation: .85s ajax-loader-rotate steps(8) infinite;
+  
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+.visible {
+	display: block;
+}
+.ajax-container {
+width: 40px;
+height: 40px;
+margin: auto;
+text-align: center;
+position: relative;
+}
+.error {
+	color: red;
+}
+.ok {
+	color: green;
+}
+.d-search {
+height: 25px;
+}
+
+.selectable li .handle { float: left; padding-right: 5px; cursor: move; }
+
+input[readonly] {
+	background: #f0f0f0;
+	color: #999;
+}
+/*
+.img700 {
+	max-width: 700px;
+}
+.img130 {
+	max-width: 130px;
+}
+*/

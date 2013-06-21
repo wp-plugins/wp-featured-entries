@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jh-featured v1.0\n"
+"POT-Creation-Date: 2013-06-09 20:06+0100\n"
+"PO-Revision-Date: 2013-06-09 20:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Featured entries"
+msgstr ""
+
+msgid "New featured group"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Created featured groups"
+msgstr ""
+
+msgid "PHP Function"
+msgstr ""
+
+msgid "View entries"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Are you sure you want to remove this group?"
+msgstr ""
+
+msgid "Entries of the featured group"
+msgstr ""
+
+msgid "Entries"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Edit featured group"
+msgstr ""
