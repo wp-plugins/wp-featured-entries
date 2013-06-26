@@ -1,7 +1,7 @@
 === WP Featured Entries ===
 Contributors: 
 Donate link: http://www.jahertor.com/posts-destacados-plugin-wp-featured-entries/
-Tags: posts,entries,post,entry,featured,slide,sticky,featured image,featured entries,featured posts
+Tags: posts,entries,post,entry,featured,slide,sticky,featured entries,featured posts,featured image
 Requires at least: 3.3
 Tested up to: 3.5.1
 Stable tag: 1.0
